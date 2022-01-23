@@ -1,0 +1,22 @@
+name: Render CV
+
+on: push
+
+jobs:
+  render_cv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Render PDF
+        uses: docker://pandoc/latex:latest
+        with:
+          args: --output=linus-borjesson-cv.pdf linus-borjesson-cv.md
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v2
+        with:
+          name: linus-borjesson-cv-pdf
+          path: linus-borjesson-cv.pdf
+
