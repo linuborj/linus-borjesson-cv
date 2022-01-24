@@ -12,7 +12,7 @@ jobs:
       - name: Render PDF
         uses: docker://pandoc/latex:latest
         with:
-          args: --from=markdown+yaml_metadata_block --output=linus-borjesson-cv.pdf linus-borjesson-cv.md
+          args: --from=markdown+yaml_metadata_block --template=cv-template.latex --output=linus-borjesson-cv.pdf linus-borjesson-cv.md
 
       - name: Release
         uses: softprops/action-gh-release@v1
