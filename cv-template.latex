@@ -2,7 +2,6 @@
 
 \usepackage{hyperref}
 \usepackage{geometry}
-\usepackage{enumitem}
 \usepackage[parfill]{parskip}
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
@@ -39,9 +38,6 @@
 
 % Do not number sections
 \setcounter{secnumdepth}{0}
-
-% Make description lists look nicer
-\setlist[description]{leftmargin=0em, style=sameline}
 
 \begin{document}
 
