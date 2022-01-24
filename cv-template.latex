@@ -31,11 +31,6 @@
 \pagestyle{myheadings}
 \markright{Last updated: \today}
 
-% Custom section fonts
-\usepackage{sectsty}
-\sectionfont{\rmfamily\mdseries\Large}
-\subsectionfont{\rmfamily\mdseries\itshape\large}
-
 % Do not number sections
 \setcounter{secnumdepth}{0}
 
