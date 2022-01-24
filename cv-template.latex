@@ -1,0 +1,61 @@
+\documentclass{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage[parfill]{parskip}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\def\name{$name$}
+\def\title{$title$}
+\def\email{$email$}
+\def\github{$github$}
+\def\linkedin{$linkedin$}
+
+% Metadata
+\hypersetup{
+  colorlinks = true,
+  pdfauthor = {\name},
+  pdfkeywords = {$keywords$},
+  pdftitle = {\name: CV},
+  pdfsubject = {CV},
+  pdfpagemode = UseNone
+}
+
+% https://github.com/jgm/pandoc/blob/fce3ebb8e023d0f9fd5756503e9264b05571b75a/tests/writer.latex#L61
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Put page number and "last updated" in the header
+\pagestyle{myheadings}
+\markright{Last updated: \today}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Do not number sections
+\setcounter{secnumdepth}{0}
+
+% Make description lists look nicer
+\setlist[description]{leftmargin=0em, style=sameline}
+
+\begin{document}
+
+{\huge \name}
+
+{\large \title}
+
+\bigskip
+
+Email: \email \\
+Github: \github \\
+Linkedin: \linkedin
+
+$body$
+
+\end{document}
+
