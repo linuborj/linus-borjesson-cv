@@ -12,7 +12,7 @@ keywords: software, developer, cv, consultant, java, kotlin, haskell,
 
 I enjoy being a part of the whole software life cycle, from design and greenfield development to maintenance and refactoring. What I like most is building software that can reasoned about and trusted.
 
-I am most experienced and comfortable working with back-end, but I have some front-end experience. Similarly, even though it has never been my role I also have some experience with DevOps and CI/CD.
+I am most experienced and comfortable working with back-end, but I have some front-end experience. Similarly, even though it has never been my role I also have some experience with DevOps and CI/CD related work.
 
 When programming in my spare time I typically reach for functional programming languages, most often Haskell.
 
@@ -25,10 +25,10 @@ Databases
   : PostgreSQL, MongoDB, DynamoDB
 
 Cloud
-  : AWS, OpenShift (to a smaller extent), Azure (to a smaller extent)
+  : AWS, Kubernetes (to a smaller extent), Azure (to a smaller extent)
 
 Miscellaneous
-  : Git, Protobuf
+  : Git, Protobuf, Docker
 
 # Experience
 
@@ -47,7 +47,7 @@ At Barium I worked with back-end development. Most of my work centered on a DSL,
 The refactoring touched both on the parsing and interpretation of Barlang.
 
 Skills used:
-  : Kotlin, PostgreSQL, Functional programming
+  : Kotlin, PostgreSQL, Functional programming, Docker, Kubernetes
 
 
 ## Acorn Technology AB
@@ -63,7 +63,7 @@ At Volvo I mostly worked as a front-end developer, developing Volvo's next gener
 I also did some back-end and CI/CD work when needed.
 
 Skills used:
-  : JavaScript, TypeScript, WebComponents, Node.js, Express.js, MongoDB, Azure, OpenShift
+  : JavaScript, TypeScript, WebComponents, Node.js, Express.js, MongoDB, Azure, Kubernetes, Docker
 
 ## WirelessCar AB
 
@@ -76,7 +76,7 @@ One such tool was a framework used together with SpringBoot. The goal of the fra
 The tooling surrounding the message format consisted of code- and documentation-generators. The code-generators were able to interpret the message format specification language and generate both client and server code for Python and Java. The documentation generator could interpret the message format specification language and generate AsciiDoc as an intermediary representation of the documentation. The AsciiDoc documentation could then be used to generated HTML or PDFs.
 
 Skills used:
-  : Java, Python, PostgreSQL, AWS (DynamoDB, SQS, Lambda, ...), Cryptography
+  : Java, Python, PostgreSQL, AWS (DynamoDB, SQS, Lambda, ...), Cryptography, Docker
 
 # Education
 
