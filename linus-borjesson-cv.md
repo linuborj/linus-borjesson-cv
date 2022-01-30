@@ -25,10 +25,10 @@ Databases
   : PostgreSQL, MongoDB, DynamoDB
 
 Cloud
-  : AWS, Kubernetes (to a smaller extent), Azure (to a smaller extent)
+  : AWS, Kubernetes, Azure
 
 Miscellaneous
-  : Git, Protobuf, Docker
+  : Git, Protobuf, Docker, GraphQL, Spring Boot
 
 # Experience
 
@@ -42,23 +42,24 @@ In November 2021 I started my own company and became an independent software dev
 
 *November 2021 - January 2022*
 
-At Barium I worked with back-end development. Most of my work centered on a DSL, "Barlang", which is a simple functional programming language used by customers when building applications in Barium's low code platform.
+At Barium I worked with back-end development. Most of my work centered on a simple functional programming language used by customers when building applications in Barium's low code platform.
 
-The refactoring touched both on the parsing and interpretation of Barlang.
+My work consisted on refactoring the parser to make it more flexible. In doing so I did refactored boh parts of the parser and the interpreter.
 
 Skills used:
   : Kotlin, PostgreSQL, Functional programming, Docker, Kubernetes
 
-
 ## Acorn Technology AB
+
 *August 2019 - November 2021*
 
-My role at Acorn was as a software developer consultant. I had the same assignment for my whole stay where I worked as a front-end developer in an in-house team at Acorn for Volvo.
+My role at Acorn was as a software developer consultant. I had the same assignment for my whole stay where I worked as a front-end developer for an in-house team at Acorn for Volvo.
 
 ### Consultant at Volvo AB
+
 *August 2019 - November 2021*
 
-At Volvo I mostly worked as a front-end developer, developing Volvo's next generation of diagnostic and maintenance tools. The work consisted of building reusable web-components that could be composed into applications.
+At Volvo I mostly worked with front-end, developing Volvo's next generation of diagnostic and maintenance tools. The work consisted of building reusable web-components that could be composed into applications.
 
 I also did some back-end and CI/CD work when needed.
 
@@ -71,12 +72,12 @@ Skills used:
 
 During my time at WirelessCar I worked in back-end, either building micro-services on AWS or helping to develop tools to do so.
 
-One such tool was a framework used together with SpringBoot. The goal of the framework was to standardize and simplify recurring patterns, such as permissions checking, logging etc.
+One such tool was a framework used together with Spring Boot. The goal of the framework was to standardize and simplify recurring patterns, such as permissions checking, logging etc.
 
 The tooling surrounding the message format consisted of code- and documentation-generators. The code-generators were able to interpret the message format specification language and generate both client and server code for Python and Java. The documentation generator could interpret the message format specification language and generate AsciiDoc as an intermediary representation of the documentation. The AsciiDoc documentation could then be used to generated HTML or PDFs.
 
 Skills used:
-  : Java, Python, PostgreSQL, AWS (DynamoDB, SQS, Lambda, ...), Cryptography, Docker
+  : Java, Spring Boot, Python, PostgreSQL, AWS (DynamoDB, SQS, Lambda, ...), Cryptography, Docker
 
 # Education
 
@@ -88,6 +89,3 @@ University of Gothenburg
 Languages
   : English (fluent), Swedish (native).
 
-# References
-
-References available upon request.
