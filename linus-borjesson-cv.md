@@ -64,7 +64,7 @@ At Volvo I mostly worked with front-end, developing Volvo's next generation of d
 I also did some back-end and CI/CD work when needed.
 
 Skills used:
-  : JavaScript, TypeScript, WebComponents, Node.js, Express.js, MongoDB, Azure, Kubernetes, Docker
+  : JavaScript, TypeScript, WebComponents, Node.js, Express.js, MongoDB, Azure, Kubernetes, Docker, GraphQL
 
 ## WirelessCar AB
 
@@ -74,7 +74,7 @@ During my time at WirelessCar I worked in back-end, either building micro-servic
 
 One such tool was a framework used together with Spring Boot. The goal of the framework was to standardize and simplify recurring patterns, such as permissions checking, logging etc.
 
-The tooling surrounding the message format consisted of code- and documentation-generators. The code-generators were able to interpret the message format specification language and generate both client and server code for Python and Java. The documentation generator could interpret the message format specification language and generate AsciiDoc as an intermediary representation of the documentation. The AsciiDoc documentation could then be used to generated HTML or PDFs.
+I also worked on a message format and related tooling that in the end did not get widely used. The tooling surrounding the message format consisted of code- and documentation-generators. The code-generators were able to interpret the message format specification language and generate both client and server code for Python and Java. The documentation generator could interpret the message format specification language and generate AsciiDoc as an intermediary representation of the documentation. The AsciiDoc documentation could then be used to generated HTML or PDFs.
 
 Skills used:
   : Java, Spring Boot, Python, PostgreSQL, AWS (DynamoDB, SQS, Lambda, ...), Cryptography, Docker
