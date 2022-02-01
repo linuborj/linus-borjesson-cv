@@ -23,5 +23,6 @@ jobs:
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: linus-borjesson-cv.pdf
-          files: linus-borjesson-cv.docx
+          files: |
+            linus-borjesson-cv.pdf
+            linus-borjesson-cv.docx
