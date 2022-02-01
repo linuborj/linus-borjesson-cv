@@ -14,8 +14,14 @@ jobs:
         with:
           args: --from=markdown+yaml_metadata_block --template=cv-template.latex --output=linus-borjesson-cv.pdf linus-borjesson-cv.md
 
+      - name: Render DOCX
+        uses: docker://pandoc/latex:latest
+        with:
+          args: --from=markdown+yaml_metadata_block --template=cv-template.latex --output=linus-borjesson-cv.docx linus-borjesson-cv.md
+
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: linus-borjesson-cv.pdf
+          files: linus-borjesson-cv.docx
