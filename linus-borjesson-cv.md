@@ -22,13 +22,13 @@ Programming languages
   : Java, Haskell, Kotlin, Python, JavaScript, TypeScript
 
 Databases
-  : PostgreSQL, MongoDB, DynamoDB
+  : PostgreSQL, MongoDB, DynamoDB, SQLite
 
 Cloud
   : AWS, Kubernetes, Azure
 
 Miscellaneous
-  : Git, Protobuf, Docker, GraphQL, Spring Boot
+  : Git, Protobuf, Docker, GraphQL, Spring Boot, AOSP, Android
 
 # Experience
 
@@ -37,6 +37,15 @@ Miscellaneous
 *November 2021 - present*
 
 In November 2021 I started my own company and became an independent software developer consultant. 
+
+### Consultant at CPAC Systems AB
+
+*February 2022 - *
+
+At CPAC Systems I worked with their next generation Android platform. Most of the work consists of either adapting or extending AOSP.
+
+Skills used:
+  : Android, Kotlin, Java, SQLite
 
 ### Consultant at Barium AB
 
@@ -88,4 +97,3 @@ University of Gothenburg
 
 Languages
   : English (fluent), Swedish (native).
-
