@@ -1,11 +1,11 @@
 ---
 name: 'Linus Börjesson'
-title: Independent software developer consultant
+title: Freelance software developer
 email: '[linus@linusborjesson.se](mailto:linus@linusborjesson.se)'
 github: '[https://github.com/linuborj](https://github.com/linuborj)'
 linkedin: '[https://linkedin.com/in/linusborjesson](https://linkedin.com/in/linusborjesson)'
 keywords: software, developer, cv, consultant, java, kotlin, haskell,
-    javascript, typescript
+    javascript, typescript, c#, c++, oda, ifc, dwg
 ...
 
 # Summary
@@ -19,16 +19,16 @@ When programming in my spare time I typically reach for functional programming l
 # Skills
 
 Programming languages
-  : Java, Haskell, Kotlin, Python, JavaScript, TypeScript
+  : Java, Haskell, Kotlin, Python, JavaScript, TypeScript, C#, C++
 
 Databases
   : PostgreSQL, MongoDB, DynamoDB, SQLite
 
 Cloud
-  : AWS, Kubernetes, Azure
+  : AWS, Kubernetes, Azure, Nomad
 
 Miscellaneous
-  : Git, Protobuf, Docker, GraphQL, Spring Boot, AOSP, Android
+  : Git, Protobuf, Docker, GraphQL, Spring Boot, AOSP, Android, ODA, IFC, DWG
 
 # Experience
 
@@ -36,13 +36,24 @@ Miscellaneous
 
 *November 2021 - present*
 
-In November 2021 I started my own company and became an independent software developer consultant. 
+In November 2021 I started freelancing. 
+
+### Consultant at Twinfinity AB
+
+*April 2022 -*
+
+At Twinfinity I've worked with their backend. I've been part of of a team that is responsible for taking raw IFC and DWG files and then parsing them into a useful format for front-end applications. In addition to this I've been involved with authentication and authorization.
+
+While I've mainly worked in backend, I've done some minor frontend related work.
+
+Skills used:
+  : C#, Java, DWG, IFC, ODA, TypeScript, OIDC
 
 ### Consultant at CPAC Systems AB
 
-*February 2022 - *
+*February 2022 - April 2023*
 
-At CPAC Systems I worked with their next generation Android platform. Most of the work consists of either adapting or extending AOSP.
+At CPAC Systems I worked with their next generation Android platform. Most of the work consisted of either adapting or extending AOSP.
 
 Skills used:
   : Android, Kotlin, Java, SQLite
@@ -84,6 +95,8 @@ During my time at WirelessCar I worked in back-end, either building micro-servic
 One such tool was a framework used together with Spring Boot. The goal of the framework was to standardize and simplify recurring patterns, such as permissions checking, logging etc.
 
 I also worked on a message format and related tooling that in the end was not widely used. The tooling surrounding the message format consisted of code- and documentation-generators. The code-generators were able to interpret the message format specification language and generate both client and server code for Python and Java. The documentation generator could interpret the message format specification language and generate AsciiDoc as an intermediary representation of the documentation. The AsciiDoc documentation could then be used to generate HTML or PDFs.
+
+If nothing else, this made me learn to be aware of the necessity of ownership and requirements. Or, as if often the case, how to navigate the lack of requirements.
 
 Skills used:
   : Java, Spring Boot, Python, PostgreSQL, AWS (DynamoDB, SQS, Lambda, ...), Cryptography, Docker
