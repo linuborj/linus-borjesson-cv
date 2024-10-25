@@ -30,7 +30,7 @@ Miscellaneous
 
 # Experience
 
-## Linus Börjesson AB
+## Linus BÃ¶rjesson AB
 
 *November 2021 - present*
 
