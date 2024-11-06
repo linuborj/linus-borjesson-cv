@@ -92,7 +92,7 @@ During my time at WirelessCar I worked in back-end, either building micro-servic
 
 One such tool was a framework used together with Spring Boot. The goal of the framework was to standardize and simplify recurring patterns, such as permissions checking, logging etc.
 
-I also worked on a message format and related tooling that in the end was not widely used. The tooling surrounding the message format consisted of code- and documentation-generators. The code-generators were able to interpret the message format specification language and generate both client and server code for Python and Java.
+I also worked on a message format and related tooling that in the end was not widely used. The tooling surrounding the message format consisted of code- and documentation-generators.
 
 If nothing else, this made me learn to be aware of the necessity of ownership and requirements. Or, as if often the case, how to navigate the lack of requirements.
 
