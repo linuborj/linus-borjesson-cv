@@ -40,9 +40,9 @@ In November 2021 I started freelancing.
 
 *April 2023 - present*
 
-At Twinfinity I've worked with their backend. I've been part of of a team that is responsible for taking raw IFC and DWG files and then parsing them into a useful format for front-end applications. In addition to this I've been involved with authentication and authorization.
+At Twinfinity I've worked with their back-end. I've been part of of a team that is responsible for taking raw IFC and DWG files and then parsing them into a useful format for front-end applications. In addition to this I've been involved with authentication and authorization.
 
-While I've mainly worked in backend, I've done some minor frontend related work.
+While I've mainly worked in back-end, I've done some minor front-end related work.
 
 Skills used:
   : C#, Java, DWG, IFC, ODA, TypeScript, OIDC
