@@ -62,8 +62,6 @@ Skills used:
 
 At Barium I worked with back-end development. Most of my work centered on a simple functional programming language used by customers when building applications in Barium's low code platform.
 
-One of the things I did was to make the parser more flexible. In doing so I refactored both parts of the parser and the interpreter.
-
 Skills used:
   : Kotlin, PostgreSQL, Functional programming, Docker, Kubernetes
 
