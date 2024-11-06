@@ -38,7 +38,7 @@ In November 2021 I started freelancing.
 
 ### Consultant at Twinfinity AB
 
-*April 2023 -*
+*April 2023 - present*
 
 At Twinfinity I've worked with their backend. I've been part of of a team that is responsible for taking raw IFC and DWG files and then parsing them into a useful format for front-end applications. In addition to this I've been involved with authentication and authorization.
 
