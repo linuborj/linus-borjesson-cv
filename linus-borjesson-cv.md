@@ -10,9 +10,7 @@ keywords: software, developer, cv, consultant, java, kotlin, haskell,
 
 # Summary
 
-I enjoy being a part of the whole software life cycle, from design and greenfield development to maintenance and refactoring. What I like most is building software that can be reasoned about and trusted.
-
-I am most experienced and comfortable working with back-end, but I have some front-end experience. Similarly, even though it has never been my role I also have some experience with DevOps and CI/CD related work.
+Software developer with experience in back-end and front-end development, focusing on building reliable and maintainable systems. Familiar with various programming languages and cloud technologies.
 
 # Skills
 
