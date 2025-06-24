@@ -21,7 +21,7 @@ Databases
   : PostgreSQL, MongoDB, DynamoDB, SQLite
 
 Cloud
-  : AWS, Kubernetes, Azure, Nomad
+  : AWS, Azure, Nomad
 
 Miscellaneous
   : Git, Protobuf, Docker, GraphQL, Spring Boot, AOSP, Android, ODA, IFC, DWG
@@ -32,33 +32,31 @@ Miscellaneous
 
 *November 2021 - present*
 
-In November 2021 I started freelancing. 
+In November 2021, I started freelancing.
 
 ### Consultant at Twinfinity AB
 
 *April 2023 - present*
 
-At Twinfinity I've worked with their back-end. I've been part of of a team that is responsible for taking raw IFC and DWG files and then parsing them into a useful format for front-end applications. In addition to this I've been involved with authentication and authorization.
-
-While I've mainly worked in back-end, I've done some minor front-end related work.
+At Twinfinity, I've worked with back-end, data processing, and a bit of DevOps. The main responsibility of the team that I've been part of has been to process IFC and DWG files and make the data in them available for applications.
 
 Skills used:
-  : C#, Java, DWG, IFC, ODA, TypeScript, OIDC
+  : C#, C++, Java, DWG, IFC, ODA, TypeScript, OIDC
 
 ### Consultant at CPAC Systems AB
 
 *February 2022 - April 2023*
 
-At CPAC Systems I worked with their next generation Android platform. Most of the work consisted of either adapting or extending AOSP.
+At CPAC Systems, I worked with their next-generation Android platform. Most of the work consisted of either adapting or extending AOSP.
 
 Skills used:
-  : Android, Kotlin, Java, SQLite
+  : Android, Kotlin, Java, SQLite, AOSP
 
 ### Consultant at Barium AB
 
 *November 2021 - January 2022*
 
-At Barium I worked with back-end development. Most of my work centered on a simple functional programming language used by customers when building applications in Barium's low code platform.
+At Barium, I worked with back-end development. Most of my work centered on a simple functional programming language used by customers when building applications in Barium's low-code platform.
 
 Skills used:
   : Kotlin, PostgreSQL, Functional programming, Docker, Kubernetes
@@ -67,15 +65,13 @@ Skills used:
 
 *August 2019 - November 2021*
 
-My role at Acorn was as a software developer consultant. I had the same assignment for my whole stay where I worked as a front-end developer for an in-house team at Acorn for Volvo.
+My role at Acorn was as a software developer consultant. I had the same assignment for my entire stay, where I worked as a front-end developer for an in-house team at Acorn for Volvo.
 
 ### Consultant at Volvo AB
 
 *August 2019 - November 2021*
 
-At Volvo I mostly worked with front-end, developing Volvo's next generation of diagnostic and maintenance tools. The work consisted of building reusable web-components that could be composed into applications.
-
-I also did some back-end and CI/CD work when needed.
+At Volvo, I mostly worked with front-end development, developing Volvo's next generation of diagnostic and maintenance tools. The work consisted of building reusable web components that could be composed into applications.
 
 Skills used:
   : JavaScript, TypeScript, WebComponents, Node.js, Express.js, MongoDB, Azure, Kubernetes, Docker, GraphQL
@@ -84,13 +80,7 @@ Skills used:
 
 *September 2017 - August 2019*
 
-During my time at WirelessCar I worked in back-end, either building micro-services on AWS or helping to develop tools to do so.
-
-One such tool was a framework used together with Spring Boot. The goal of the framework was to standardize and simplify recurring patterns, such as permissions checking, logging etc.
-
-I also worked on a message format and related tooling that in the end was not widely used. The tooling surrounding the message format consisted of code- and documentation-generators.
-
-If nothing else, this made me learn to be aware of the necessity of ownership and requirements. Or, as if often the case, how to navigate the lack of requirements.
+During my time at WirelessCar, I worked in back-end development, either building microservices on AWS or helping to develop tools to do so.
 
 Skills used:
   : Java, Spring Boot, Python, PostgreSQL, AWS (DynamoDB, SQS, Lambda, ...), Cryptography, Docker
@@ -98,9 +88,9 @@ Skills used:
 # Education
 
 University of Gothenburg
-  : Computer Science, 2011 - 2017.
+  : Computer Science, 2011 - 2017
 
 # Miscellaneous
 
 Languages
-  : English (fluent), Swedish (native).
+  : English (fluent), Swedish (native)
