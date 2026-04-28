@@ -8,10 +8,6 @@ keywords: software, developer, cv, consultant, java, kotlin, haskell,
     javascript, typescript, c#, c++, oda, ifc, dwg
 ...
 
-# Summary
-
-Software developer with experience in back-end and front-end development, focusing on building reliable and maintainable systems. Familiar with various programming languages and cloud technologies.
-
 # Skills
 
 Programming languages
