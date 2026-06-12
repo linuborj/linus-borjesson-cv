@@ -11,16 +11,16 @@ keywords: software, developer, cv, consultant, java, kotlin, haskell,
 # Skills
 
 Programming languages
-  : Java, Haskell, Kotlin, Python, JavaScript, TypeScript, C#, C++
+  : C#, TypeScript, C++, Kotlin, Java, Haskell, Python
 
 Databases
   : PostgreSQL, MongoDB, DynamoDB, SQLite
 
 Cloud
-  : AWS, Azure, Nomad
+  : Nomad, AWS, Azure
 
 Miscellaneous
-  : Git, Protobuf, Docker, GraphQL, Spring Boot, AOSP, Android, ODA, IFC, DWG
+  : NATS, Git, Protobuf, Docker, GraphQL, Spring Boot, AOSP, Android, ODA, IFC, DWG
 
 # Experience
 
@@ -37,7 +37,7 @@ In November 2021, I started freelancing.
 At Twinfinity, I've worked with back-end, data processing, and a bit of DevOps. The main responsibility of the team that I've been part of has been to process IFC and DWG files and make the data in them available for applications.
 
 Skills used:
-  : C#, C++, Java, DWG, IFC, ODA, TypeScript, OIDC
+  : C#, C++, DWG, IFC, ODA, TypeScript, OIDC, Nomad, NATS
 
 ### Consultant at CPAC Systems AB
 
@@ -83,10 +83,13 @@ Skills used:
 
 # Education
 
-University of Gothenburg
+University of Gothenburg:
   : Computer Science, 2011 - 2017
 
 # Miscellaneous
 
-Languages
+Languages:
   : English (fluent), Swedish (native)
+
+Drivers license:
+  : B-körkort

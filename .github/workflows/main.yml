@@ -16,10 +16,14 @@ jobs:
         with:
           args: --from=markdown+yaml_metadata_block --template=cv-template.latex --output=linus-borjesson-cv.pdf linus-borjesson-cv.md
 
+      - name: Stamp release
+        id: stamp
+        run: echo "tag=$(date +'%Y-%m-%d-%H%M%S')" >> "$GITHUB_OUTPUT"
+
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: latest
-          name: Latest
+          name: ${{ steps.stamp.outputs.tag }}
+          tag_name: ${{ steps.stamp.outputs.tag }}
           files: |
             linus-borjesson-cv.pdf
